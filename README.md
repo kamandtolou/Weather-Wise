@@ -37,8 +37,8 @@ To run the project locally:
 
 #### Clone this repository:
 
-### `git clone https://github.com/yourusername/weather-wise.git
-### cd weather-wise`   
+### `git clone https://github.com/yourusername/weather-wise.git`
+### `cd weather-wise`   
 
 #### Install dependencies:
 ### `npm install`
